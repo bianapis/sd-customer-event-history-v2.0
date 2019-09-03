@@ -1,0 +1,31 @@
+{
+  "servicingInstanceRecord" : {
+    "channelDeviceType" : "channelDeviceType",
+    "accessedProductService" : "accessedProductService",
+    "customerContactRecordReference" : "769209",
+    "employeeUnitReference" : "723021",
+    "dateTimeLocation" : "dateTimeLocation",
+    "customerServicingEventRecord" : {},
+    "contactResult" : "contactResult",
+    "customerServicingEventType" : "customerServicingEventType",
+    "contactPurpose" : "contactPurpose"
+  },
+  "servicingRetrieveActionTaskReference" : "SRATR759661",
+  "servicingInstanceReport" : {
+    "servicingInstanceReportParameters" : "servicingInstanceReportParameters",
+    "servicingInstanceReport" : {},
+    "servicingInstanceReportType" : "servicingInstanceReportType",
+    "servicingInstanceReportRecord" : {}
+  },
+  "servicingRetrieveActionResponse" : "servicingRetrieveActionResponse",
+  "cRCustomerEventLogInstanceRecord" : {
+    "customerReference" : "757642"
+  },
+  "servicingRetrieveActionTaskRecord" : {},
+  "servicingInstanceAnalysis" : {
+    "servicingInstanceAnalysisReport" : {},
+    "servicingInstanceAnalysisParameters" : "servicingInstanceAnalysisParameters",
+    "servicingInstanceAnalysisReportType" : "servicingInstanceAnalysisReportType",
+    "servicingInstanceAnalysisRecord" : {}
+  }
+}

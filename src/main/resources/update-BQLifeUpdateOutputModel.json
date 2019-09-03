@@ -1,0 +1,12 @@
+{
+  "lifeUpdateActionTaskReference" : "CELUATR714537",
+  "lifeInstanceRecord" : {
+    "customerContactRecordReference" : "740334",
+    "employeeUnitReference" : "799067",
+    "customerLifeEventRecord" : {},
+    "dateTimeLocation" : "dateTimeLocation",
+    "customerLifeEventType" : "customerLifeEventType"
+  },
+  "lifeUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

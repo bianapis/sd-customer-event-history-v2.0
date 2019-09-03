@@ -1,0 +1,12 @@
+{
+  "relationshipUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "relationshipInstanceRecord" : {
+    "customerRelationshipEventRecord" : {},
+    "customerRelationshipEventType" : "customerRelationshipEventType",
+    "employeeUnitReference" : "793782",
+    "customerRelationshipEventAction" : "customerRelationshipEventAction",
+    "dateTimeLocation" : "dateTimeLocation"
+  },
+  "relationshipUpdateActionTaskReference" : "RUATR701584"
+}

@@ -1,0 +1,14 @@
+{
+  "productProcessingUpdateActionTaskReference" : "PPUATR789127",
+  "productProcessingUpdateActionTaskRecord" : {},
+  "productProcessingInstanceRecord" : {
+    "productActionEventType" : "productActionEventType",
+    "productInstanceReference" : "702535",
+    "employeeUnitReference" : "732898",
+    "dateTimeLocation" : "dateTimeLocation",
+    "productActionEventDescription" : "productActionEventDescription",
+    "customerProductServiceEventRecord" : {},
+    "productActionEventResult" : "productActionEventResult"
+  },
+  "updateResponseRecord" : {}
+}

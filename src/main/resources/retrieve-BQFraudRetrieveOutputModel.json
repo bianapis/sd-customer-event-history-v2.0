@@ -1,0 +1,28 @@
+{
+  "cRCustomerEventLogInstanceRecord" : {
+    "customerReference" : "778094"
+  },
+  "fraudInstanceRecord" : {
+    "accessedProductService" : "accessedProductService",
+    "customerContactRecordReference" : "748432",
+    "employeeUnitReference" : "700651",
+    "customerFraudCaseEventType" : "customerFraudCaseEventType",
+    "fraudCaseReference" : "776288",
+    "dateTimeLocation" : "dateTimeLocation"
+  },
+  "fraudRetrieveActionTaskRecord" : {},
+  "fraudInstanceAnalysis" : {
+    "fraudInstanceAnalysisRecord" : {},
+    "fraudInstanceAnalysisReport" : {},
+    "fraudInstanceAnalysisParameters" : "fraudInstanceAnalysisParameters",
+    "fraudInstanceAnalysisReportType" : "fraudInstanceAnalysisReportType"
+  },
+  "fraudInstanceReport" : {
+    "fraudInstanceReportParameters" : "fraudInstanceReportParameters",
+    "fraudInstanceReportRecord" : {},
+    "fraudInstanceReport" : {},
+    "fraudInstanceReportType" : "fraudInstanceReportType"
+  },
+  "fraudRetrieveActionTaskReference" : "FRATR740031",
+  "fraudRetrieveActionResponse" : "fraudRetrieveActionResponse"
+}

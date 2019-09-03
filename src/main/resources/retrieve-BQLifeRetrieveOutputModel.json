@@ -1,0 +1,27 @@
+{
+  "lifeInstanceRecord" : {
+    "customerContactRecordReference" : "710150",
+    "employeeUnitReference" : "785602",
+    "customerLifeEventRecord" : {},
+    "dateTimeLocation" : "dateTimeLocation",
+    "customerLifeEventType" : "customerLifeEventType"
+  },
+  "lifeInstanceReport" : {
+    "lifeInstanceReportRecord" : {},
+    "lifeInstanceReport" : {},
+    "lifeInstanceReportType" : "lifeInstanceReportType",
+    "lifeInstanceReportParameters" : "lifeInstanceReportParameters"
+  },
+  "cRCustomerEventLogInstanceRecord" : {
+    "customerReference" : "714743"
+  },
+  "lifeRetrieveActionTaskRecord" : {},
+  "lifeRetrieveActionResponse" : "lifeRetrieveActionResponse",
+  "lifeRetrieveActionTaskReference" : "CELRATR790070",
+  "lifeInstanceAnalysis" : {
+    "lifeInstanceAnalysisRecord" : {},
+    "lifeInstanceAnalysisReport" : {},
+    "lifeInstanceAnalysisReportType" : "lifeInstanceAnalysisReportType",
+    "lifeInstanceAnalysisParameters" : "lifeInstanceAnalysisParameters"
+  }
+}

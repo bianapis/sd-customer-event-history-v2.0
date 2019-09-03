@@ -1,0 +1,18 @@
+{
+  "customerEventLogRetrieveActionTaskRecord" : {},
+  "customerEventLogRetrieveActionTaskReference" : "CELRATR734029",
+  "customerEventLogInstanceReportRecord" : {
+    "customerEventLogInstanceReportType" : "customerEventLogInstanceReportType",
+    "customerEventLogInstanceReport" : {},
+    "customerEventLogInstanceReportData" : "customerEventLogInstanceReportData"
+  },
+  "cRCustomerEventLogInstanceRecord" : {
+    "customerReference" : "768046"
+  },
+  "customerEventLogRetrieveActionResponse" : "customerEventLogRetrieveActionResponse",
+  "customerEventLogInstanceAnalysis" : {
+    "customerEventLogInstanceAnalysisReport" : {},
+    "customerEventLogInstanceAnalysisReportType" : "customerEventLogInstanceAnalysisReportType",
+    "customerEventLogInstanceAnalysisData" : "customerEventLogInstanceAnalysisData"
+  }
+}

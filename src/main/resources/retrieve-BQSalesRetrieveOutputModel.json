@@ -1,0 +1,29 @@
+{
+  "salesInstanceAnalysis" : {
+    "salesInstanceAnalysisRecord" : {},
+    "salesInstanceAnalysisParameters" : "salesInstanceAnalysisParameters",
+    "salesInstanceAnalysisReportType" : "salesInstanceAnalysisReportType",
+    "salesInstanceAnalysisReport" : {}
+  },
+  "salesInstanceReport" : {
+    "salesInstanceReportParameters" : "salesInstanceReportParameters",
+    "salesInstanceReport" : {},
+    "salesInstanceReportType" : "salesInstanceReportType",
+    "salesInstanceReportRecord" : {}
+  },
+  "salesInstanceRecord" : {
+    "customerSalesEventRecord" : {},
+    "customerSalesEventType" : "customerSalesEventType",
+    "employeeUnitReference" : "789225",
+    "dateTimeLocation" : "dateTimeLocation",
+    "commissionAgreementReference" : "713903",
+    "leadOpportunityReference" : "725490",
+    "productServiceType" : "productServiceType"
+  },
+  "salesRetrieveActionResponse" : "salesRetrieveActionResponse",
+  "cRCustomerEventLogInstanceRecord" : {
+    "customerReference" : "771330"
+  },
+  "salesRetrieveActionTaskRecord" : {},
+  "salesRetrieveActionTaskReference" : "SRATR754172"
+}

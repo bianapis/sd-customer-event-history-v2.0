@@ -1,0 +1,16 @@
+{
+  "servicingInstanceRecord" : {
+    "channelDeviceType" : "channelDeviceType",
+    "accessedProductService" : "accessedProductService",
+    "customerContactRecordReference" : "772929",
+    "employeeUnitReference" : "756959",
+    "dateTimeLocation" : "dateTimeLocation",
+    "customerServicingEventRecord" : {},
+    "contactResult" : "contactResult",
+    "customerServicingEventType" : "customerServicingEventType",
+    "contactPurpose" : "contactPurpose"
+  },
+  "servicingUpdateActionTaskReference" : "SUATR703286",
+  "servicingUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

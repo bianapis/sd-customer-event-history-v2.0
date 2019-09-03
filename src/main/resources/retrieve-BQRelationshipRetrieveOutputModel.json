@@ -1,0 +1,27 @@
+{
+  "relationshipRetrieveActionTaskReference" : "RRATR768117",
+  "relationshipRetrieveActionTaskRecord" : {},
+  "cRCustomerEventLogInstanceRecord" : {
+    "customerReference" : "713097"
+  },
+  "relationshipInstanceRecord" : {
+    "customerRelationshipEventRecord" : {},
+    "customerRelationshipEventType" : "customerRelationshipEventType",
+    "employeeUnitReference" : "756465",
+    "customerRelationshipEventAction" : "customerRelationshipEventAction",
+    "dateTimeLocation" : "dateTimeLocation"
+  },
+  "relationshipInstanceReport" : {
+    "relationshipInstanceReportRecord" : {},
+    "relationshipInstanceReport" : {},
+    "relationshipInstanceReportType" : "relationshipInstanceReportType",
+    "relationshipInstanceReportParameters" : "relationshipInstanceReportParameters"
+  },
+  "relationshipRetrieveActionResponse" : "relationshipRetrieveActionResponse",
+  "relationshipInstanceAnalysis" : {
+    "relationshipInstanceAnalysisParameters" : "relationshipInstanceAnalysisParameters",
+    "relationshipInstanceAnalysisReport" : {},
+    "relationshipInstanceAnalysisRecord" : {},
+    "relationshipInstanceAnalysisReportType" : "relationshipInstanceAnalysisReportType"
+  }
+}

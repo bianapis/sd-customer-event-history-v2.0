@@ -1,0 +1,29 @@
+{
+  "productProcessingInstanceRecord" : {
+    "productActionEventType" : "productActionEventType",
+    "productInstanceReference" : "719009",
+    "employeeUnitReference" : "711834",
+    "dateTimeLocation" : "dateTimeLocation",
+    "productActionEventDescription" : "productActionEventDescription",
+    "customerProductServiceEventRecord" : {},
+    "productActionEventResult" : "productActionEventResult"
+  },
+  "productProcessingRetrieveActionResponse" : "productProcessingRetrieveActionResponse",
+  "cRCustomerEventLogInstanceRecord" : {
+    "customerReference" : "702959"
+  },
+  "productProcessingInstanceAnalysis" : {
+    "productProcessingInstanceAnalysisReportType" : "productProcessingInstanceAnalysisReportType",
+    "productProcessingInstanceAnalysisParameters" : "productProcessingInstanceAnalysisParameters",
+    "productProcessingInstanceAnalysisReport" : {},
+    "productProcessingInstanceAnalysisRecord" : {}
+  },
+  "productProcessingRetrieveActionTaskRecord" : {},
+  "productProcessingRetrieveActionTaskReference" : "PPRATR790072",
+  "productProcessingInstanceReport" : {
+    "productProcessingInstanceReportRecord" : {},
+    "productProcessingInstanceReportParameters" : "productProcessingInstanceReportParameters",
+    "productProcessingInstanceReportType" : "productProcessingInstanceReportType",
+    "productProcessingInstanceReport" : {}
+  }
+}

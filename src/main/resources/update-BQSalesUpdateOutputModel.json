@@ -1,0 +1,14 @@
+{
+  "salesUpdateActionTaskRecord" : {},
+  "salesInstanceRecord" : {
+    "customerSalesEventRecord" : {},
+    "customerSalesEventType" : "customerSalesEventType",
+    "employeeUnitReference" : "776878",
+    "dateTimeLocation" : "dateTimeLocation",
+    "commissionAgreementReference" : "797788",
+    "leadOpportunityReference" : "753539",
+    "productServiceType" : "productServiceType"
+  },
+  "updateResponseRecord" : {},
+  "salesUpdateActionTaskReference" : "SUATR790728"
+}

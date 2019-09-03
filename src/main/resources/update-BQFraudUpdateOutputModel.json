@@ -1,0 +1,13 @@
+{
+  "fraudUpdateActionTaskRecord" : {},
+  "fraudUpdateActionTaskReference" : "FUATR752145",
+  "updateResponseRecord" : {},
+  "fraudInstanceRecord" : {
+    "accessedProductService" : "accessedProductService",
+    "customerContactRecordReference" : "739673",
+    "employeeUnitReference" : "767055",
+    "customerFraudCaseEventType" : "customerFraudCaseEventType",
+    "fraudCaseReference" : "708101",
+    "dateTimeLocation" : "dateTimeLocation"
+  }
+}
