@@ -38,7 +38,7 @@ public class BQRelationshipRetrieveOutputModel   {
   public BQRelationshipRetrieveOutputModelCRCustomerEventLogInstanceRecord getCRCustomerEventLogInstanceRecord() {
     return cRCustomerEventLogInstanceRecord;
   }
-
+  @JsonProperty("cRCustomerEventLogInstanceRecord")
   public void setCRCustomerEventLogInstanceRecord(BQRelationshipRetrieveOutputModelCRCustomerEventLogInstanceRecord cRCustomerEventLogInstanceRecord) {
     this.cRCustomerEventLogInstanceRecord = cRCustomerEventLogInstanceRecord;
   }

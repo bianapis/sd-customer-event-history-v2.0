@@ -38,7 +38,7 @@ public class BQServicingRetrieveOutputModel   {
   public BQServicingRetrieveOutputModelCRCustomerEventLogInstanceRecord getCRCustomerEventLogInstanceRecord() {
     return cRCustomerEventLogInstanceRecord;
   }
-
+  @JsonProperty("cRCustomerEventLogInstanceRecord")
   public void setCRCustomerEventLogInstanceRecord(BQServicingRetrieveOutputModelCRCustomerEventLogInstanceRecord cRCustomerEventLogInstanceRecord) {
     this.cRCustomerEventLogInstanceRecord = cRCustomerEventLogInstanceRecord;
   }

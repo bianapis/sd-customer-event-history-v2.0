@@ -35,7 +35,8 @@ public class CRCustomerEventLogRetrieveOutputModel   {
   public CRCustomerEventLogRetrieveOutputModelCRCustomerEventLogInstanceRecord getCRCustomerEventLogInstanceRecord() {
     return cRCustomerEventLogInstanceRecord;
   }
-
+ 
+  @JsonProperty("cRCustomerEventLogInstanceRecord")
   public void setCRCustomerEventLogInstanceRecord(CRCustomerEventLogRetrieveOutputModelCRCustomerEventLogInstanceRecord cRCustomerEventLogInstanceRecord) {
     this.cRCustomerEventLogInstanceRecord = cRCustomerEventLogInstanceRecord;
   }
